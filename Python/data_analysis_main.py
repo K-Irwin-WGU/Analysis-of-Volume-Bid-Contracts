@@ -712,7 +712,7 @@ class AnalysisMain():
         self.pd.data_file_1 = 'Work_Completed_Set1.csv'
         self.pd.data_file_2 = 'Work_Completed_Set2.csv'
         self.pd.data_file_3 = 'Work_Completed_Data.csv'
-        self.pd.folder_1 = 'Clean-Data'
+        self.pd.folder_1 = 'Data'
         self.pd.folder_2 = 'Processed-Data'
         self.pd.dataset_1 = 'Historic Data'
         self.pd.dataset_2 = 'Current Data'
