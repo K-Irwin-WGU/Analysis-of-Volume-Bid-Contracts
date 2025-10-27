@@ -11,4 +11,4 @@ dependencies:
   - scipy=1.13.1
   - statsmodels=0.14.4
   - pip:
-      - prettytable=3.16.0
+      - prettytable==3.16.0
