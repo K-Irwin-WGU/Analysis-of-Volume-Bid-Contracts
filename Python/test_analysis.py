@@ -80,7 +80,7 @@ class TestProcessData(unittest.TestCase):
         # Set Class Variables
         pd_test.data_file_1 = 'Work_Completed_Set1.csv'
         pd_test.data_file_2 = 'Work_Completed_Set2.csv'
-        pd_test.folder_1 = 'Clean-Data'
+        pd_test.folder_1 = 'Data'
         pd_test.dataset_1 = 'Historic Data'
         pd_test.dataset_2 = 'Current Data'
         pd_test.unit_test = True
@@ -109,7 +109,7 @@ class TestProcessData(unittest.TestCase):
         pd_test.data_file_1 = 'Work_Completed_Set1.csv'
         pd_test.data_file_2 = 'Work_Completed_Set2.csv'
         pd_test.data_file_3 = 'Work_Completed_Data.csv'
-        pd_test.folder_1 = 'Clean-Data'
+        pd_test.folder_1 = 'Data'
         pd_test.folder_2 = 'Processed-Data'
         pd_test.dataset_1 = 'Historic Data'
         pd_test.dataset_2 = 'Current Data'
