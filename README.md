@@ -149,7 +149,7 @@ The Python directory contains the twelve Python files that comprise the project 
 9. **parametric_nonparametric_analysis.py** – This file defines the ParametricNonparametricAnalysis class for evaluating the effectiveness of parametric and non-parametric tests applied to the data and determining the most appropriate analytical approach, with results systematically presented in tabular form.
 10. **chi_square_analysis.py** – This file defines the ChiSquareAnalysis class for performing a Chi-Squared Analysis on the data to identify any statistically significant relationships between attributes. The analysis results are displayed using a heatmap visualization and summarized in detailed statistical tables.
 11. **data_analysis_main.py** – The file defines the DataAnalysisMain class for implementing the data processing and the eight analysis classes.
-12. test_analysis.py – This file defines the unit tests for the Python application.
+12. **test_analysis.py** – This file defines the unit tests for the Python application.
 
 ----------------------------------------------------------------------
 
